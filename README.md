@@ -1,2 +1,2 @@
 # java-maven-repo
-Credit = C and System Programmers Association (@oguzkaran)
+Credit = C and System Programmers Association https://github.com/oguzkaran
